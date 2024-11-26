@@ -1,4 +1,3 @@
-
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
@@ -17,8 +16,9 @@
         "B": "oxidized_chiseled_copper"
     },
     "result": {
-        "id": "item_frame",
-        "components": {"custom_model_data": 850001},
-        "count": 1
+        "id": "knowledge_book",
+        "components": {
+            "custom_model_data": 850000
+        }
     }
 }

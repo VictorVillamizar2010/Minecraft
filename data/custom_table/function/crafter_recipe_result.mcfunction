@@ -1,0 +1,1 @@
+data merge block ~ ~ ~ {Items:[{Slot:4b,id:"golden_pickaxe",components:{"minecraft:item_name":'"Pico de TNT"',"minecraft:custom_model_data":850002},count:1}]}

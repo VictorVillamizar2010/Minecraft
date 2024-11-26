@@ -1,6 +1,6 @@
 {
   "criteria": {
-    "requirement": {
+    "crafted_custom_item": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "custom_table:custom_table_rp"
