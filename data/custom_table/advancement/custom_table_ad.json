@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "custom_table:custom_table_rp"
+      }
+    }
+  },
+  "rewards": {
+    "function": "custom_table:custom_table_result"
+  }
+}

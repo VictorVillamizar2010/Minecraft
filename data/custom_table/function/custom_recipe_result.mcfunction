@@ -1,0 +1,1 @@
+data merge block ~ ~ ~ {Items:[{Slot:4b,id:"iron_pickaxe",count:1}]}

@@ -1,0 +1,1 @@
+execute if block ~ ~ ~ dropper{Items:[{Slot:1b,id:"minecraft:egg",count:1},{Slot:4b,id:"minecraft:bowl",count:1}]} run function custom_table:recipe1
