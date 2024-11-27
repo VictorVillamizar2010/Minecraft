@@ -1,1 +1,2 @@
-give @p item_frame[entity_data={id:"minecraft:item_frame",Item:{id:"minecraft:item_frame",components:{"minecraft:custom_model_data":850001}},Fixed:1b,Invisible:1b,Silent:1b,Invulnerable:1b,Tags:["custom_table"]},custom_model_data=850001,custom_name='{"italic":false,"text":"Mesa de Picos Custom"}']
+loot give @s loot custom_table:custom_table_lt
+give @s golden_pickaxe[minecraft:item_name='"Pico de TNT"',minecraft:custom_model_data=850002]
